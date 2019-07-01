@@ -1,1 +1,1 @@
-# LSTM-stack-predict
+# LSTM-stock-predict
